@@ -2,7 +2,7 @@
 # Gymkhana Awards
 ## Introduction
 The Students’ Gymkhana shall annually present the following awards to members of its General Body:
- - Outstanding Freshman
+ - Outstanding First Year
  - Media and Cultural Excellence Award
  - Science and Technology Excellence Award
  - Gymkhana Community Service Award
@@ -12,8 +12,8 @@ The Students’ Gymkhana shall annually present the following awards to members 
 A General Body Member who is a member of the selection panel for any award shall automatically be ineligible for that award in that Gymkhana Year.
 The meetings of all panels shall be open to all General Body Members to attend as silent observers.
 
-### Outstanding Freshman
-This award shall be presented to a freshman (that is first year UG or PG student) who has displayed exceptional performance in at least one of the following: Leadership, Community Service, Cultural Excellence, Sports, Science and Technology Innovation, or any other achievement that may be deemed fit as an exceptional display of talent and who has secured a minimum CPI of 7.5.
+### Outstanding First Year
+This award shall be presented to a first year (that is first year UG or PG student) who has displayed exceptional performance in at least one of the following: Leadership, Community Service, Cultural Excellence, Sports, Science and Technology Innovation, or any other achievement that may be deemed fit as an exceptional display of talent and who has secured a minimum CPI of 7.5.
 This award shall be restricted to achievements pursued through the Students’ Gymkhana, IIT Kanpur.
 
 The panel for recommending the awardees to the Senate shall be:
