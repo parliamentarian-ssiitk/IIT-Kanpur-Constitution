@@ -109,3 +109,18 @@ No nominations shall be invited for the same. However, Senators, Executives and 
 The Gymkhana Blues award should not be awarded just after the major tenure of the person in consideration.
 The committee shall first ascertain the tenure of the individual in which he/she contributed the most to the Gymkhana. If the time between consideration and said major tenure is at least 1 years and at most 2 years then all the contributions made by the individual to the Gymkhana from the time of his entering the institute to the time of consideration shall be examined by the committee.
 The award shall consist of a memento, a certificate, a letter of appreciation and an Institute Blazer with. The text of the Letter of Appreciation shall be suggested by the panel. The Patron, Students’ Gymkhana shall be requested to present the award.
+
+### Gymkhana Faculty Award
+This award shall be presented to a faculty member who has contributed greatly to the student community, either through the Gymkhana as an institution, or through their contributions to individuals and groups within the student community.
+The panel for recommending the awardees to the Senate shall be:
+ - President, Students’ Gymkhana (Convener)
+ - Chairperson, Students’ Gymkhana
+ - General Secretary, Science and Technology
+ - General Secretary, Media and Culture
+ - General Secretary, Games and Sports
+ - Two Senators nominated by the Students’ Senate
+
+The award shall not be given for exemplary teaching or research, unless it goes above and beyond what is expected from a faculty.
+The award shall not be given to the current Chief Counsellor or Patron of the Students’ Gymkhana. However, former Chief Counsellors and Patrons shall be eligible for the award.
+The award can be given to an individual for the contribution made by him/her only after the tenure for which they are being considered has been completed. 
+The panel may recommend more than one awardees.  The award shall be given to the faculty on Gymkhana Day. Further, the faculty member shall be felicitated on the Institute Foundation Day, with a scroll containing a Letter of Appreciation, whose text shall be recommended by the panel.
