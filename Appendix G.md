@@ -8,6 +8,7 @@ The Students’ Gymkhana shall annually present the following awards to members 
  - Gymkhana Community Service Award
  - Gymkhana Leadership Award
  - Gymkhana Blues
+ - Gymkhana Faculty Award
 
 A General Body Member who is a member of the selection panel for any award shall automatically be ineligible for that award in that Gymkhana Year.
 The meetings of all panels shall be open to all General Body Members to attend as silent observers.
