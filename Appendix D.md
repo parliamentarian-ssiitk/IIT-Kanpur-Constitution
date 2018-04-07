@@ -2,52 +2,41 @@
 # Clubs, Cells and Hobby Groups
 1. These shall be the Cells and they shall comprise of the following wings:
     1. Academics and Research Cell
-        1. International Relations
-        2. Research
-        3. UG Academics
-        4. PG Academics
+        1. Creatives
+        2. International Relations
+        3. PG Academics
+        4. Research
+        5. UG Academics
     2. Community Welfare Cell
         1. Pragati
         2. Prakriti
         3. Prayas
         4. Raktarpan
         5. Unmukt
-    3. Entrepreneurship Cell
-        1. Campus
-        2. Corporate Relations
-        3. Design
-        4. Events
-        5. Finance and Logistics
-        6. Marketing
-        7. Media and Publicity
-        8. Start-up Internship Program
-        9. Web
-    4. Outreach Cell
-        1. Creative
-        2. Content
-        3. Public Relations
-    5. Vox Populi
-    6. Election Cell
-        1. Web
-        2. Executive
-2. The Media and Cultural Council shall include the following clubs and hobby groups:
-    - Clubs:    
-        1. Dance Club 
-        2. Debating and Discussion Society
-        3. Dramatics Club
-        4. Film Club
-        5. Fine Arts and Design Club
-        6. Literary Society
-        7. Music Club
-        8. Photography Club
-        9. Quiz Club
-        10. Students’ Film Society
-        11. Book Club
-    - Hobby Groups:
-        1. Anime Society
-        2. Sound Hobby Group
+    4. Election Commission
+        1. Auditing and Finance
+        2. Publicity and Logistics
+        3. Web and Design
+    4. Entrepreneurship Cell
+        1. Business Developments
+        2. Campus
+        3. Corporate Relations
+        4. Design
+        5. Events
+        6. Finance and Logistics
+        7. Marketing
+        8. Media and Publicity
+        9. Start-up Development
+        10. Start-up Internship Program
+        11. Web
+    5. Outreach Cell
+        1. Creative (Content)
+        2. Creative (Design and Video)
+        3. Creative (Web)
+        3. Relations
+    6. Vox Populi
 
-3. The Games and Sports Council shall include the following clubs and hobby groups:
+2. The Games and Sports Council shall include the following clubs and hobby groups:
     - Clubs:
         1. Adventure Club
         2. Chess Club
@@ -57,19 +46,36 @@
         6. Taekwondo Club
     - Hobby Groups:
         1. Bicycling Hobby Group
-        2. Boxing Hobby Group
+        2. Boxing Hobby Group 
+
+3. The Media and Cultural Council shall include the following clubs and hobby groups:
+    - Clubs:    
+        1. Book Club
+        2. Dance Club 
+        3. Debating and Discussion Society
+        4. Dramatics Club
+        5. Film Club
+        6. Fine Arts and Design Club
+        7. Literary Society
+        8. Music Club
+        9. Photography Club
+        10. Quiz Club
+        11. Students’ Film Society
+    - Hobby Groups:
+        1. Anime Society
+        2. Students' Opinion Society       
 
 4. The Science and Technology Council shall include the following clubs and hobby groups:
     - Clubs:
         1. Aeromodelling Club
         2. Astronomy Club
-        3. Business Club
-        4. Electronics Club
-        5. Robotics Club
-        6. Programming Club
+        3. Electronics Club
+        4. Robotics Club
+        5. Programming Club
     - Hobby Groups:
         1. BRaIN Hobby Group
         2. DesCon Hobby Group
-        3. Gliding Hobby Group
-        4. Rubik’s Cube Hobby Group
-        5. Science Coffee House
+        3. Finance Hobby Group
+        4. Gliding Hobby Group
+        5. Rubik’s Cube Hobby Group
+        6. Science Coffee House
