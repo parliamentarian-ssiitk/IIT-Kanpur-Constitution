@@ -4,10 +4,10 @@
 2. The Director of the Institute shall be the Patron of the Gymkhana.
 3. The Patron, from a panel of names suggested by the Students’ Senate shall appoint the Dean, Student Affairs, who shall also be the Chief Counsellor of the Gymkhana.
 4. The Patron shall also appoint the following at the recommendation of the Students’ Senate :
-a.  Counsellor, Games and Sports
-b.  Counsellor, Media and Culture
-c.  Counsellor, Science and Technology
-d.  Treasurer of the Gymkhana
+    1.  Counsellor, Games and Sports
+    2.  Counsellor, Media and Culture
+    3.  Counsellor, Science and Technology
+    4.  Treasurer of the Gymkhana
 5. The Counsellors shall advise their respective councils of the Gymkhana.
 6. All other Counsellors shall be subordinate to the Chief Counsellor in all decision-making powers, who shall himself/herself be subordinate to the Patron.
 
@@ -15,10 +15,10 @@ d.  Treasurer of the Gymkhana
 ## ORGANIZATION AND ORGANIZATIONAL PRINCIPLES
 1. The Gymkhana shall function through the Students’ Senate and its Executive wing.
 2. The Students’ Senate (hereafter referred to as the Senate) shall be the Central Representative, Legislative and Supervisory body of the students. It shall:
-a. Serve as the main forum of expression of student opinion.
-b. Be in continuous touch with the General Body, consult the students, and act as a feedback system.
-c. Act as the central policy making body of the Gymkhana.
-d. Guide and check the functioning of the Executive wing of the Gymkhana.
+    1. Serve as the main forum of expression of student opinion.
+    2. Be in continuous touch with the General Body, consult the students, and act as a feedback system.
+    3. Act as the central policy making body of the Gymkhana.
+    4. Guide and check the functioning of the Executive wing of the Gymkhana.
 However, it shall not interfere in matters of minor importance, in order that the free functioning of the Executive wing within the general policy framework defined by the Senate is not affected.
 3. The Senate shall comprise of:
     1. The Executives, namely
