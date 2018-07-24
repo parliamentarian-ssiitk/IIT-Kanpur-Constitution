@@ -119,7 +119,7 @@ Unless specifically assigned by the Constitution or the Senate, he/she shall not
         2. General Secretary, Media and Culture
         3. General Secretary, Games and Sports
         4. General Secretary, Science and Technology
-        5. Senator BT/BS-MT/MS/MBA, 4th Year
+        5. Senator BT/BS-MT/MS/MBA Dual Degree and BT/BS-BT/BS Double Major, 4th Year
         6. Senator BT/BS, 3rd Year
         7. Senator BT/BS, 2nd Year
         8. Senator BT/BS, 1st Year
@@ -131,7 +131,7 @@ Unless specifically assigned by the Constitution or the Senate, he/she shall not
         13. Senator PhD, 2nd Year
         14. Senator PhD, 3rd Year and above
     2. Members who shall officiate till the Convocation of the Institute shall be:
-        1. Senator BT/BS-MT/MS/MBA, 5th Year
+        1. Senator BT/BS-MT/MS/MBA Dual Degree and BT/BS-BT/BS Double Major, 5th Year
         2. Senator BT/BS, 4th Year
         3. Senator MTech (2-year), 2nd Year
         4. Senator MBA, MDes and other 2-year programmes, 2nd Year
