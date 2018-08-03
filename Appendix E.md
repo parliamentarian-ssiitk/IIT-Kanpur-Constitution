@@ -51,6 +51,8 @@ The activities of the festival team shall work towards improving the quality of 
     3. Chairperson, COFA of the corresponding festival
     4. Festival Coordinator
     5. Respective Core Team member of the previous Gymkhana year. In case the functionary of the previous year is not available, the corresponding functionary of the present year will replace them.
+    6. Finance Convener in case of Head, Finance. 
+4. In the case of a tie, the vote of the panel of the Convener of the Panel will be counted twice. 
 5. Notwithstanding the above, the Convener of the panel may choose to invite the incoming Chairperson, President or General Secretary to the interview for their opinion.
 6. As far as possible, the decision of the interview panel must be taken by consensus. If consensus does not emerge, the Convener of the panel may call for a vote. Voting rights shall only be given to members of the panel. All members of the panel who are members of the panel by virtue of the same position shall share one vote equally among themselves. The Convener of the panel shall have the tiebreaking vote. If a vote occurs, the details of the vote must be presented to the Senate when the recommendations of the panel are forwarded to the Senate for ratification.
 7. The Senate may, if it chooses, reject the recommendation of the panel. In this case, the panel shall resubmit the proposed names taking into account the opinion of the Senate.
