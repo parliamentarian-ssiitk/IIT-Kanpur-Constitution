@@ -37,13 +37,12 @@ However, it shall not interfere in matters of minor importance, in order that th
 6. The President, Students’ Gymkhana shall be the Chief Executive of the Gymkhana. He/she shall:
     1. Be elected by the General Body.
     2. Supervise and coordinate the general affairs of the General Body.
-    3. Be the ex-officio Chairperson of the General Affairs Council.
-    4. Represent views of the students at all forums of the Institute.
-    5. Be an ex-officio special invitee to the (academic) Senate of the Institute.
-    6. Be a member of various bodies of the Institute whenever a representative of the Gymkhana is required.
-    7. Preside over meetings of the General Body, when convened by him/her.
-    8. Maintain and execute an Office of the Students’ Gymkhana (hereinafter referred to as the President’s Office).
-    9. Have other responsibilities and powers as mentioned in this Constitution or as assigned to him/her by the Senate from time to time.
+    3. Represent views of the students at all forums of the Institute.
+    4. Be an ex-officio special invitee to the (academic) Senate of the Institute.
+    5. Be a member of various bodies of the Institute whenever a representative of the Gymkhana is required.
+    6. Preside over meetings of the General Body, when convened by him/her.
+    7. Maintain and execute an Office of the Students’ Gymkhana (hereinafter referred to as the President’s Office).
+    8. Have other responsibilities and powers as mentioned in this Constitution or as assigned to him/her by the Senate from time to time.
 7. The Chairperson (/Chairman/Chairwoman), Students’ Senate shall convene and preside over meetings of the Senate. He/she shall:
     1. Be elected by the Senate from amongst Senators.
     2. Direct the appropriate persons for the successful implementation of the decisions of the Senate and be responsible to the Senate for the same.
@@ -224,17 +223,17 @@ Unless specifically assigned by the Constitution or the Senate, he/she shall not
 1. The Executive activities of the Gymkhana shall be discharged through the Executive Councils and Cells.
 2. The Executive Councils shall execute affairs pertaining to an overarching purpose.
 3. The Executive Council(s) of the Gymkhana shall be:
-    1. General Affairs Council
+    1. President's Office
     2. Media and Cultural Council
     3. Games and Sports Council
     4. Science and Technology Council
 4. The Executive Councils may include clubs and hobby groups oriented to their purpose.
 5. A Hobby Group shall be an association of 10 or more students united by a common activity or interest. Such groups shall be associated with a council, with the consent of its General Secretary, and shall be headed by one or more Leaders appointed by Senate at the recommendation of the General Secretary. An exceptionally performing hobby group can be converted into a club.
 6. A Club shall organise and promote activities in a specific field of interest. Such entities shall be headed by one or more Coordinators appointed by the Senate at the recommendation of the General Secretary, and shall be selected by a call for nominations to the General Body. Clubs shall receive funding from the Annual Gymkhana Budget.
-7. General Affairs Council
-    1. The General Affairs Council shall assist the President in discharging his/her duties.
-    2. The President, Students’ Gymkhana shall be the Chairperson of the General Affairs Council and shall supervise the Council’s activities.
-    3. The council shall consist of all members nominated by the President, the Chairperson, Students’ Senate or his/her nominee and the Finance Convener (ex-officio).
+7. President's Office
+    1. The President's Office shall assist the President in discharging his/her duties.
+    2. The President, Students’ Gymkhana shall supervise the Council’s activities.
+    3. The Office shall consist of all members nominated by the President, the Finance Convener (ex-officio), members of the Marketing Team, Placement Preparation Team, and Executive Wing.  
 8. Media and Cultural Council
     1. The Media and Cultural Council shall exist upto a review by the Students’ Senate (2017-18) and Students’ Senate (2018-19) as mandated by the Students’ Senate (2016-17).
     2. The Media and Cultural Council shall organize and promote extracurricular activities in the field of media and culture.
@@ -258,7 +257,7 @@ Unless specifically assigned by the Constitution or the Senate, he/she shall not
 15. There shall be Cells which operate independent of any council and carry out activities that serve a diversified cause.
 16. Cells shall be headed by one or more Overall Coordinators appointed by the Senate at the recommendation of the Nominations Committee. Overall Coordinator(s) shall recommend to the Senate for ratification the names of the students who shall be appointed to various positions of responsibility in their respective cell.
 17. Whenever asked, the Overall Coordinator(s) shall report to the Senate and be answerable for the activities carried out by their cell. The Overall Coordinator(s) shall further present an Annual report of the cell before the handing-over session of the Senate.
-18.A cell may have Faculty members as Advisors who may counsel and assist the cell in its working.
+18. A cell may have Faculty members as Advisors who may counsel and assist the cell in its working.
 19. Cells shall receive funding from the Annual Gymkhana Budget.
 20. A list of all cells, clubs and hobby groups shall be maintained as an Appendix to this Constitution.
 21. The Gymkhana may also have associations of students, identified as Teams, which participate in an external competition.
