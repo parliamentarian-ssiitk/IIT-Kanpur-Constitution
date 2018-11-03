@@ -161,7 +161,7 @@ Unless specifically assigned by the Constitution or the Senate, he/she shall not
     4. If not, the candidate(s) with the least votes gets eliminated.
     5. Each Senator and Executive shall once again cast votes for the continuing candidates, and this process shall continue until all but one candidate (who shall be declared elected) are eliminated or until a tie is resolved in accordance with Article 3.12.02.
     6. If a tie occurs as per Article 3.11.02, the vote of the President shall be counted to break the tie.
-13. The elections of the Parliamentarian, the Finance Convener and the In-charge Hostel Affairs shall also be conducted as per Article 3.12. In this case, the tie-breaking vote shall be that of the Chairperson and not the President.
+13. The elections of the Parliamentarian, the Finance Convener and the Convener, CoSHA shall also be conducted as per Article 3.12. In this case, the tie-breaking vote shall be that of the Chairperson and not the President.
 14. If the post any Senate Office-bearer falls vacant in the middle of the Senate’s term, by-elections shall be called by the Senate for that post. This election shall be conducted by the incumbent Chairperson or Parliamentarian or both (whichever is applicable) as per Article 3.12. 
 15. Notwithstanding any other Article in this Chapter except Article 3.09, the norms and modalities regarding the elections shall be fixed by the Election Commission which can be challenged only in the Senate. The Chief Election Officer shall present these in the Senate meeting before every election.
 16. The outgoing Senate shall handover charge to the incoming Senate around 14th March. Under exceptional circumstances, this can be postponed for a period of two weeks.
@@ -183,7 +183,7 @@ Unless specifically assigned by the Constitution or the Senate, he/she shall not
     1. The COSHA shall supervise and coordinate matters of common interest to all Halls of Residence of the Institute.
     2. It shall have its own constitution which shall be maintained as an Appendix to this Constitution.
     3. The Chairperson, COSHA (as specified by the COSHA Constitution) shall preside over the meetings of the COSHA and shall be responsible for the implementation of the decisions of the COSHA.
-    4. The Convener, COSHA shall be elected from among the non-executive members of the General Body, and shall maintain the records of the COSHA. He/she shall take up executive work on the explicit direction of the Chairperson, COSHA. He/she shall represent the COSHA in the meetings of the Senate.
+    4. The Convener, COSHA shall be elected from among the non-executive members of the Senate, and shall maintain the records of the COSHA. He/she shall take up executive work on the explicit direction of the Chairperson, COSHA. He/she shall represent the COSHA in the meetings of the Senate.
 7. Finance Committee
     1. The Finance Committee shall manage the finances of the Gymkhana and shall control and supervise the expenditures incurred by the Executive wing of the Gymkhana. 
     2. It shall report to the Senate the Finances and Accounts of the Gymkhana periodically.
