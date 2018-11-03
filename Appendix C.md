@@ -116,7 +116,7 @@ Chairperson, COSHA.
 22. The Convener, COSHA shall be responsible for the production, on demand, of of all the documents of the COSHA in original to the following:
     1. Members of the COSHA
     2. Members of the general body of students
-    3. Any other person or vody authorized by the COSHA
+    3. Any other person or body authorized by the COSHA
 
 ## PROCEDURES OF THE COSHA
 23. Inadequacies in the rules and procedures of the COSHA shall be referred to by the Chairperson, COSHA to the Convener, COSHA. The COSHA may, upon discussion, appoint a sub-committee to discuss the same with the Convener as its Chairperson.
