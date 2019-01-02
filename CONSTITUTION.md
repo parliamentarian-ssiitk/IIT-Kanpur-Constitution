@@ -76,7 +76,11 @@ However, it shall not interfere in matters of minor importance, in order that th
     2. Supervise and coordinate all Science and Technology activities of the General Body.
     3. Be the ex-officio Chairperson of the Science and Technology Council. 
     4. Be responsible for all executive and financial activities of his/her Council.
+<<<<<<< HEAD
 	5. Be the ex-officio Chairperson of the Committee of Festival Affairs (Techkriti) of the Senate, and thereby be responsible to the Senate for the activities of the technical festival (Techkriti) of the Gymkhana. 
+=======
+	5. Be the ex-officio Chairperson of the Committee of Festival Affairs (Techkriti) of the Senate, and thereby be responsible to the Senate for the activites of the technical festival (Techkriti) of the Gymkhana. 
+>>>>>>> 5c5d840f6703344d6982a2e8bf733aa21be19829
     6. Have other responsibilities and powers as mentioned in this Constitution.
 11. The UG Incharge, Academics and Career shall be the Executive of the Gymkhana overseeing Academics and Career actvities of the Undergraduate community. He/She shall:
 	1. Be elected by the Undergraduate students of the General Body. 
