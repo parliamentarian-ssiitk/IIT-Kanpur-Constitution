@@ -51,28 +51,20 @@ After the interview, the appointing authority shall:
 - Submit the proposed names to the Students’ Senate for ratification (in the case of the above-mentioned posts), along with the tenure of the post.
 - Appoint a General Body Member he deems fit from among the nominations received (in case of non-ratified posts).
 ## General Eligibility Criteria
-For all elected and nominated posts of the Students’ Gymkhana except the posts of Students’ Senate Nominees, a General Body Member will be eligible to apply only if:
+For all elected and nominated posts of the Students’ Gymkhana, a General Body Member will be eligible to apply only if:
 1. He/she has not exceeded the normal duration of their academic programmes (for all students except for PhD students).
 2. He/she has not exceeded the maximum duration of their academic programmes as defined in the UG Manual and PG Manual of the Institute (for all students).
 3. He/she has written permission from his/her advisor (in case of PhD students who have exceeded normal duration or PhD students who are in an advanced stage in their thesis).
 4. He/she has not been placed on Academic Probation or Warning by the SUGC.
 5. He/she has not been debarred from holding positions by any Standing Committee of the (academic) Senate (in particular by the SSAC).
 6. He/she has a CPI greater than:
-    - 6.5 for UG students
+    - 6.5 for UG students in case of Executive posts, Senate Office Bearers, and all nominees to Institute bodies, 6.0 for all other posts.
     - 7.5 for PG students who have not completed their course-work
     - 7.0 for PG students who have completed their course-work
 7. He/she has not accumulated backlogs of more than 25 credits in coursework in total or obtained an X in thesis credits in the past one year.
 
 Further, he/she is expected to maintain a CPI greater than or equal to 6.0 (in case of UG) or a CPI greater than or equal to 7.00 (in case of PG) and satisfy the backlog criteria during his/her entire tenure failing which he/she shall cease to hold his/her post in the Gymkhana.
-## Eligibility Criteria for Students’ Senate Nominees
-For the post of Students’ Senate Nominees, a General Body Member will be eligible to apply only if:
-1. He/she has written permission from his/her advisor (in case of PhD students who have exceeded normal duration or PhD students who are in an advanced stage in their thesis).
-2. He/she has not been placed on Academic Probation or Warning by the SUGC.
-3. He/she has not been debarred from holding positions by any Standing Committee of the (academic) Senate (in particular by the SSAC).
-4. He/she has a CPI greater than:
-    - 6.5 for UG students
-    - 7.5 for PG students who have not completed their course-work
-    - 7.0 for PG students who have completed their course-work
-5. He/she has not accumulated backlogs of more than 25 credits in coursework in total or obtained an X in thesis credits in the past one year.
 
-Further, he/she is expected to maintain a CPI greater than or equal to 6.0 (in case of UG) or a CPI greater than or equal to 7.00 (in case of PG) and satisfy the backlog criteria during his/her entire tenure failing which he/she shall cease to hold his/her post in the Gymkhana.
+Any student not satisfying the General Eligibility Criteria and not placed on Academic Probation and Warning by the SUGC, will be elgible to apply if they submit an undertaking to the DoSA through the Chairperson, Students' Senate taking all responsibility for their academic performance.
+
+Any student placed on Academic Probation or Warning by the SUGC, shall not be allowed to contribute towards the Students' Gymkhana in any capacity, and if found to be doing so, shall be reported to the DoSA. 
