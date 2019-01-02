@@ -26,6 +26,8 @@ However, it shall not interfere in matters of minor importance, in order that th
         2. The General Secretary, Media and Culture
         3. The General Secretary, Games and Sports
         4. The General Secretary, Science and Technology
+		5. The UG Incharge, Academics and Career
+		6. The PG Incharge, Academics and Career
     2. Senators representing every batch of students (as per 3.04 and 3.05). The number of Senators representing a batch shall be at the rate of one Senator for every 150 students in the batch, rounded up to the next integer.
     3. UG/PG Girls Representative (in case no UG Girl or PG Girl Senator respectively has been otherwise elected).
 4. The Senate shall elect from amongst the Senators:
@@ -74,8 +76,19 @@ However, it shall not interfere in matters of minor importance, in order that th
     2. Supervise and coordinate all Science and Technology activities of the General Body.
     3. Be the ex-officio Chairperson of the Science and Technology Council. 
     4. Be responsible for all executive and financial activities of his/her Council.
-    5. Be the ex-officio Chairperson of the Committee of Festival Affairs (Techkriti) of the Senate, and thereby be responsible to the Senate for the activities of the technical festival (Techkriti) of the Gymkhana.
-    6. Have other responsibilities and powers as mentioned in this Constitution.
+    5. Have other responsibilities and powers as mentioned in this Constitution.
+11. The UG Incharge, Academics and Career shall be the Executive of the Gymkhana overseeing Academics and Career actvities of the Undergraduate community. He/She shall:
+	1. Be elected by the Undergraduate students of the General Body. 
+	2. Supervise and coordinate all Academics and Career activites of the Undergraduate students of the General Body. 
+	3. Be the ex-officio Joint Secretary of the Academics and Career Council. 
+    4. Be responsible for all executive and financial activities of his/her Council.
+    5. Have other responsibilities and powers as mentioned in this Constitution.
+12. The PG Incharge, Academics and Career shall be the Executive of the Gymkhana overseeing Academics and Career actvities of the Postgraduate community. He/She shall:
+	1. Be elected by the Postgraduate students of the General Body. 
+	2. Supervise and coordinate all Academics and Career activites of the Postgraduate students of the General Body. 
+	3. Be the ex-officio Joint Secretary of the Academics and Career Council. 
+    4. Be responsible for all executive and financial activities of his/her Council.
+    5. Have other responsibilities and powers as mentioned in this Constitution.
 11. The Parliamentarian shall advise the Senate on Constitutional and procedural matters. His/her interpretation of the Constitution and its appendices on the floor of the Senate shall be final. He/she shall:
     1. Be elected by the Senate from amongst the Senators.
     2. Interpret the Constitution of the Gymkhana when requested to do so on the floor of the Senate.
@@ -105,7 +118,7 @@ Unless specifically assigned by the Constitution or the Senate, he/she shall not
 25. The Members of the Senate must attend every meeting of the Senate. If he/she is not able to attend a meeting, he/she is expected to nominate another student of his/her batch to attend the meeting on his/her behalf. The attendance rules for Senators and Executives shall be documented in the Rules and Procedures of the Students’ Senate (Appendix I).
     1. Any Senator who shall be unable to attend a meeting of the Senate is expected to inform the Chairperson for his/her aforementioned inability, and must take prior permission before doing so. If he/she fails to do so, or if he/she is absent from too many meetings (as specified in the Rules and Procedures of the Students’ Senate), then he/she shall cease to hold his/her post.
     2. Any Executive who shall be unable to attend a meeting of the Senate is expected to inform the Chairperson for his/her aforementioned inability, and must take prior permission before doing so. If he/she fails to do so, the Chairperson shall issue a show-cause notice to him/her. If the concerned Executive is unable to present a satisfactory explanation (as determined by 2/3rd of the Senate present and voting, and not less than half the total strength of the Senate), or if he/she is absent again without prior permission from the Chairperson, then he/she shall cease to hold his/her post.
-28. If the President, any General Secretary, the Chairperson or the Finance Convener is not on campus due to vacation, is on leave from the Institute or is otherwise unable to fulfil his duties for a short period of time, then he/she may appoint any member of the General Body as the Acting Office-bearer for the duration of his absence. The Acting Office-bearer shall take care of all responsibilities of the Office-bearer, and any action taken by or on him/her shall be considered an action taken by or on the Office-bearer.
+28. If the Executives, the Chairperson or the Finance Convener is not on campus due to vacation, is on leave from the Institute or is otherwise unable to fulfil his duties for a short period of time, then he/she may appoint any member of the General Body as the Acting Office-bearer for the duration of his absence. The Acting Office-bearer shall take care of all responsibilities of the Office-bearer, and any action taken by or on him/her shall be considered an action taken by or on the Office-bearer.
 29. If the Parliamentarian, or the Convener of any Standing Council or Standing Committee of the Senate is unable to attend a Senate meeting, or is otherwise unable to fulfil his duties for a short period of time, then he/she may appoint a Senator as the Acting Office-bearer for the duration of his absence. The Acting Office-bearer shall take care of all responsibilities of the Office-bearer, and any action taken by or on him/her shall be considered an action taken by or on the Office-bearer.
 
 # __CHAPTER III__
@@ -118,6 +131,8 @@ Unless specifically assigned by the Constitution or the Senate, he/she shall not
         2. General Secretary, Media and Culture
         3. General Secretary, Games and Sports
         4. General Secretary, Science and Technology
+		5. UG Incharge, Academics and Career
+		6. PG Incharge, Academics and Career
         5. Senator BT/BS-MT/MS/MBA, 4th Year
         6. Senator BT/BS, 3rd Year
         7. Senator BT/BS, 2nd Year
@@ -147,7 +162,7 @@ Unless specifically assigned by the Constitution or the Senate, he/she shall not
 9. Notwithstanding any other article in the constitution, the eligibility criteria for each of the above posts shall be as stated in the Appendix VI to the Constitution.
 10. The President and the General Secretaries shall be elected from the General Body on the basis of the following system:
     1. If there are n (>1) candidates, the voters shall either give a “no-preference” vote or (n-1) preferences. If there is 1 candidate, the voters shall give either a “no-preference” or a vote in favour of the contesting candidate.
-    2. If the number of “no-preference” votes is greater than or equal to half of the total valid votes cast, then the election of that post shall stand void, and each candidate shall be barred from contesting again for the post of President or General Secretary. A re-election shall be held with no option of “no-preference”, that is, for n (>1) candidates, the voters shall give (n-1) preferences. If there is 1 candidate, he/she shall stand elected for that post. Counting shall be as per Article 3.09.04.
+    2. If the number of “no-preference” votes is greater than or equal to half of the total valid votes cast, then the election of that post shall stand void, and each candidate shall be barred from contesting again for the post of the Executives. A re-election shall be held with no option of “no-preference”, that is, for n (>1) candidates, the voters shall give (n-1) preferences. If there is 1 candidate, he/she shall stand elected for that post. Counting shall be as per Article 3.09.04.
     3. If the number of “no-preference” votes is less than half of the total valid votes cast, then the “no-preference” votes shall be discarded and counting of the rest of the votes shall be as per Article 3.09.04.
     4. Counting shall be done in successive rounds. In the first round, only first preference votes shall be counted and the candidate with the least first preference votes shall be declared unsuccessful. In the next round, second preference votes of the unsuccessful candidates shall be added to the first preference count of continuing candidates and again the candidate with the lowest tally shall be declared unsuccessful.  The procedure continues until one candidate, who shall be declared successful, secures half or more than half of the total valid votes remaining after discarding the no-preference votes.
 11. Senators shall be elected from their respective batches on the basis of the following preferential voting system:
@@ -227,9 +242,11 @@ Unless specifically assigned by the Constitution or the Senate, he/she shall not
     2. Media and Cultural Council
     3. Games and Sports Council
     4. Science and Technology Council
-4. The Executive Councils may include clubs and hobby groups oriented to their purpose.
-5. A Hobby Group shall be an association of 10 or more students united by a common activity or interest. Such groups shall be associated with a council, with the consent of its General Secretary, and shall be headed by one or more Leaders appointed by Senate at the recommendation of the General Secretary. An exceptionally performing hobby group can be converted into a club.
-6. A Club shall organise and promote activities in a specific field of interest. Such entities shall be headed by one or more Coordinators appointed by the Senate at the recommendation of the General Secretary, and shall be selected by a call for nominations to the General Body. Clubs shall receive funding from the Annual Gymkhana Budget.
+	5. Academics and Career Council
+4. The Executive Councils may include clubs, wings and hobby groups oriented to their purpose.
+5. A Hobby Group shall be an association of 10 or more students united by a common activity or interest. Such groups shall be associated with a council, with the consent of its respective Executive, and shall be headed by one or more Leaders appointed by Senate at the recommendation of the .respective Executive. An exceptionally performing hobby group can be converted into a club.
+6. A Club shall organise and promote activities in a specific field of interest. Such entities shall be headed by one or more Coordinators appointed by the Senate at the recommendation of the respective Executive, and shall be selected by a call for nominations to the General Body. Clubs shall receive funding from the Annual Gymkhana Budget.
+7. A Wing shall work towards a specific aspect of the overall purpose of its parent body. Such entities shall be headed by one or more Managers appointed by the Senate at the recommendation of the Joint Secretaries, and shall be selected by a call for nominations to the General Body. Wings shall receive funding from the Annual Gymkhana Budget.
 7. President's Office
     1. The President's Office shall assist the President in discharging his/her duties.
     2. The President, Students’ Gymkhana shall supervise the Council’s activities.
@@ -250,16 +267,21 @@ Unless specifically assigned by the Constitution or the Senate, he/she shall not
     2. Clubs and hobby groups in the fields of science and technology shall be part of the Science and Technology Council.
     3. The General Secretary, Science and Technology shall be the Chairperson of the Science and Technology Council and shall supervise the Council’s activities.
     4. The Council shall consist of all members nominated by the General Secretary, the Coordinators of the clubs/hobby groups of the Council, the President or his/her nominee, Finance Convener (ex-officio), the member of the Finance Committee associated with Techkriti (ex-officio) and the Festival Coordinator, Techkriti (ex-officio).
+11. Academics and Career Council
+	1. The Academics and Career Council shall organize and promote activities in the fields of the academics and career development.
+	2. Wings, Clubs and hobby groups in the fields of academics and career development shall be part of the Academics and Career Council.
+	3. The UG Incharge and PG Incharge shall be the Joint Secretaries of the Academics and Career Council and shall supervise the Council's activiities. 
+	4. The Council shall consist of all members nominated by the UG and PG Incharge, the Coordinators and Managers associated with the wings/clubs/hobby groups of the Council, the President or his/her nominee, the Finance Convener (ex-officio), and all Student's Senate nominees to Academic Committees. 
 11. Clubs and Hobby groups that do not belong in any council shall be supervised by the President. In such a scenario, all duties pertaining to clubs and hobby groups carried out by General Secretaries shall be carried out by the President for those particular clubs or hobby groups.
-12. The President and General Secretaries shall recommend to the Senate for ratification the names of the students who shall be appointed to various positions of responsibility in their respective councils. The eligibility criteria and details of the positions of responsibility shall be maintained in an Appendix to this Constitution.
+12. The Executives shall recommend to the Senate for ratification the names of the students who shall be appointed to various positions of responsibility in their respective councils. The eligibility criteria and details of the positions of responsibility shall be maintained in an Appendix to this Constitution.
 13. The Senate may reject any name that it deems unfit for holding that position.
-14. At most five of the names recommended by the President/General Secretary for inclusion in their respective council may be Senators.
+14. At most five of the names recommended by the Executives for inclusion in their respective council may be Senators.
 15. There shall be Cells which operate independent of any council and carry out activities that serve a diversified cause.
 16. Cells shall be headed by one or more Overall Coordinators appointed by the Senate at the recommendation of the Nominations Committee. Overall Coordinator(s) shall recommend to the Senate for ratification the names of the students who shall be appointed to various positions of responsibility in their respective cell.
 17. Whenever asked, the Overall Coordinator(s) shall report to the Senate and be answerable for the activities carried out by their cell. The Overall Coordinator(s) shall further present an Annual report of the cell before the handing-over session of the Senate.
 18. A cell may have Faculty members as Advisors who may counsel and assist the cell in its working.
 19. Cells shall receive funding from the Annual Gymkhana Budget.
-20. A list of all cells, clubs and hobby groups shall be maintained as an Appendix to this Constitution.
+20. A list of all cells, clubs, wings and hobby groups shall be maintained as an Appendix to this Constitution.
 21. The Gymkhana may also have associations of students, identified as Teams, which participate in an external competition.
 22. Teams shall be approved by the Senate on the recommendation of an Executive only if they have a validated source of funds. They shall not be allowed to use any funds from the Gymkhana.
 23. Teams shall not be a part of any other entity under the Gymkhana and shall be headed by one or more Captains appointed by the Senate.
@@ -289,7 +311,7 @@ Unless specifically assigned by the Constitution or the Senate, he/she shall not
 13. The Finance Committee may also recommend to the Senate any ad-hoc financial measures consistent with the existing framework, which shall require a simple majority for sanction and shall be presented for approval as resolutions of the Senate.
 14. The Finance Committee shall submit regular reports (at least one in three months) on the status of the Gymkhana Finances.
 15. The guiding spirit in the expenditure of Gymkhana shall be economy at all stages and in all possible ways.
-16. Advances shall be given to the President and the General Secretaries (that is the five executives) or to any person they authorize, in writing, to do so against their name. All advances shall stand due against the names of the concerned executives unless and until satisfactorily accounted for in accordance with all the rules in force.
+16. Advances shall be given to the six executives or to any person they authorize, in writing, to do so against their name. All advances shall stand due against the names of the concerned executives unless and until satisfactorily accounted for in accordance with all the rules in force.
 17. Accounts for any expenditure should be submitted as early as possible after the amount has been withdrawn. If more than one advance or a large sum is pending, a further advance should only be sanctioned with the written consent of the Convener of the Finance Committee.
 18. If somehow expenditures have been done without taking the advances then the concerned club coordinator, cell overall coordinator or the Executive shall have to give an explanation to the Finance Convener and seek his/her permission to get the bills reimbursed.
 19. Payment for any bill shall be made only after the same has been verified for payment by the concerned overall coordinator or Executive. However, no bill/voucher shall be accepted as valid and adjusted for unless scrutinized and accepted as proper, as per rules laid down by the Students’ Senate and by the Finance Committee.
@@ -305,7 +327,7 @@ Unless specifically assigned by the Constitution or the Senate, he/she shall not
 ## BYLAWS
 1. The Constitutional may only be amended in a regular Senate Meeting. Amendment of any Article of the Constitution shall require the support of at least 2/3rd of the Senate, present and voting, and not less than half the total strength of the Senate.
 2. Amendment of the Appendices of the Constitution, including the Rules and Procedures of the Students’ Senate shall require the support of at least half the Senate, present and voting.
-3. The Senate can remove the President or any General Secretary from office by passing a no-confidence/impeachment motion supported by at least 2/3rd of the Senate, present and voting, and not less than half the total strength of the Senate.
+3. The Senate can remove any Executive from office by passing a no-confidence/impeachment motion supported by at least 2/3rd of the Senate, present and voting, and not less than half the total strength of the Senate.
 4. The Senate can remove the Chairperson, Parliamentarian and any person at any other post elected by the Senate from office by passing a no-confidence/ impeachment motion supported by at least half the total strength of the Senate.
 5. The Senate can remove any other post appointed by the Senate from office by passing a no-confidence/impeachment motion supported by at least half the Senate, present and voting.
 6. The Senate may censure any authority within the Gymkhana by a censure motion supported by at least half the total strength of the Senate.
