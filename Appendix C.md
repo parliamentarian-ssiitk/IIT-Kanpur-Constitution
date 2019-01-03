@@ -32,14 +32,13 @@
 5. The President, Students’ Gymkhana shall be the *ex-officio* Chairperson, COSHA. He shall:
     1. Preside over the meetings of the COSHA
     2. Direct the appropriate persons for the successful implementation of the decisions of the COSHA and be responsible to the COSHA for the same.
-6. The Convener, COSHA shall be elected as per Article 4.06 (d) of the Constitution of the Students’ Gymkhana. He/she shall:
-    1. Be the *ex-officio* In-Charge Hostel Affairs
+6. The Convener, COSHA shall be elected as per Article 3.13 of the Constitution of the Students’ Gymkhana.As per Article 4.06 (d) of the Constitution of the Students' Gymkhana, He/she shall:
     2. Maintain the records of the COSHA
     3. Represent the COSHA in the meetings of the Students’ Senate
-    4. Untertake executive work at the specific direction of the Chairperson, COSHA.
-7. The President of each Hall of Residence shall be elected by the residents of the Hall according to the Constitution of the Hall Executive Committee of that Hall. He/She shall:
+    4. Undertake executive work at the specific direction of the Chairperson, COSHA.
+7. The President of each Hall of Residence shall be elected by the residents of the Hall according to the Constitution of that Hall. He/She shall:
     1. Represent his/her Hall in the meetings of the COSHA
-    2. Be responsible for the executive and financial activites of his/her Hall.
+    2. Be responsible for the executive activites of his/her Hall as defined by its Constitution.
 8. The Nominees of the Students’ Senate to the COSHA shall be elected by the Students’ Senate. They shall:
     1. Along with the Convener, COSHA, serve as a bridge between the Students' Senate and COSHA
     2. Inform the Convener, COSHA if, in their opinion, any activity of the COSHA contradicts, violates or is in any way against the spirit of the Constitution, Students' Gymkhana.
@@ -47,9 +46,10 @@
 10. The President, Students' Gymkhana shall also, upon ratification from the Students' Senate, appoint a representative from the non-executive members of the general body of each Hall of Residence as “*Gymkhana Representative, Hall <Hall No.>*”.
 He/She shall:
     1. Be a *special invitee* to all COSHA meetings
-    2. Represent his/her Hall in the COSHA meetings
-    3. Assist as per specific direction, the President, Students' Gymkhana in his
- executive work.
+    2. Present the views of non-executive General body members of his/her Hall in the COSHA meetings
+    3. Assist as per specific direction, the Chairperson, CoSHA in his/her executive work.
+	4. Represent the Students' Gymkhana (incl. CoSHA) in his/her hall.
+	5. Keep in check that decision of the CoSHA and the Hall Constitution are being followed in his/her hall, in his/her capacity as a general body member of that hall. 
 11. The members of the COSHA must attend all meetings of the council. If he/she is not  able to attend a meeting, he/she is expected to nominate another student of his/her hall to attend the meeting on his/her behalf.
 12. The attendance rules for members and special invitees shall be followed as per Articles 3.9 to 3.13 of this Constitution.
     1. Any member or special invitee who is unable to attend a meeting is expected to inform the Convener, COSHA for his/her aforementioned inability. If he/she fails to do so, the Convener may take action, as per Articles 3.9 to 3.13.
@@ -88,7 +88,8 @@ Chairperson, COSHA.
 7. The following shall constitute the quorum of the COSHA:
     1. President, Students' Gymkhana/ Chairperson, Students' Senate
     2. Convener, COSHA
-    3. 1 (voting) member from each Hall of residence (or their nominee) Members shall not leave between the session without permission of the Chairperson, COSHA.
+    3. Half of the total strength of the CoSHA and half of all the hall presidents. 
+8. Members shall not leave between the session without permission of the Chairperson, COSHA.
 8. If quorum is absent at the beginning of a meeting, the meeting shall stand adjourned, without transacting any business. Sessions adjourned for lack of quorum shall require quorum for reconvening.
 9. If any member of the COSHA is absent for a meeting without informing the  Convener, COSHA, he/she will be required to explain the reason for their absence in the following meeting.
 10. If a member is unable to provide a satisfactory explanation or remains absent in the subsequent meeting also, the Convener, COSHA may take the following action:
@@ -96,9 +97,9 @@ Chairperson, COSHA.
     2. Send a letter on behalf of the COSHA to the respective Warden and the  advisory body of the COSHA informing them of the same.
 11. Special invitees to the COSHA are not mandated to attend the meetings of the COSHA, except those where the Chairperson, COSHA directs them to.
 12. If a special invitee is absent for a meeting that he/she was mandated to attend, without informing the Convener, COSHA, he/she will be required to explain the reason for their absence in the following meeting of the COSHA.
-13. If a special invitee is unable to provide a satisfactory explanation or remains absent in the subsequent meeting, the Convener, COSHA may take the following action:
+13. If any member/special invitee is unable to provide a satisfactory explanation or remains absent in the subsequent meeting, the Convener, COSHA may take the following action:
     1. Inform the COSHA and, in the immediate next Senate meeting, propose a  Censure motion against the invitee.
-    2. If following Article 3.13 (a), the invitee misses two meetings that they were mandated to attend, the Convener, on behalf of the COSHA, may request the Senate to deratify the member from their position. In case of such an event,  the Chairperson, COSHA would again be required to appoint a general body  member to the vacant position through the same process as before.
+    2. If following Article 3.13 (a), the invitee/member misses two meetings that they were mandated to attend and he/she has been ratified by the Senate, the Convener, on behalf of the COSHA, may request the Senate to deratify the member from their position. In case of such an event,  the Chairperson, COSHA would again be required to appoint a general body  member to the vacant position through the same process as before.
 14. Meetings of the COSHA shall ordinarily be open to the General Body of students. The COSHA may resolve to hold a closed door session on the basis of a simple majority. Members of the General body may express their views either through the members of the COSHA or ask for permission to speak themselves. The Chairperson, COSHA shall request all the general body members to leave in case any confidential matter comes up for discussion.
 15. The members of the general body of the students must:
     1. Request the Chairperson,COSHA for permission before expressing an opinion
