@@ -160,12 +160,14 @@ Unless specifically assigned by the Constitution or the Senate, he/she shall not
     3. If a candidate gets more than half of the votes cast, he/she is declared elected.
     4. If not, candidates with votes less than the number of no-preference votes are eliminated. If no one is eliminated in this manner, the candidate(s) with the least votes gets eliminated.
     5. Each Senator and Executive shall once again cast votes for the continuing candidates, and this process shall continue until atmost one candidate remains or until a tie is resolved in accordance with Article 3.12.02. If only one candidate remains, he/she shall be declared elected. In the case of no candidate remaining due to Article 3.12.4, the elections will be conducted afresh.
-    6. If a tie occurs as per Article 3.11.02, the vote of the President shall be counted to break the tie.'
-	7. If no one is elected, then elections will be held afresh. These elections will not have the option for a no-preference vote and any candidate who had been eliminated previously shall not be allowed to contest for the same post again.
-13. The elections of the Parliamentarian, the Finance Convener and the In-charge Hostel Affairs shall also be conducted as per Article 3.12. In this case, the tie-breaking vote shall be that of the Chairperson and not the President.
-14. If the post any Senate Office-bearer falls vacant in the middle of the Senate’s term, by-elections shall be called by the Senate for that post. This election shall be conducted by the incumbent Chairperson or Parliamentarian or both (whichever is applicable) as per Article 3.12. 
-15. Notwithstanding any other Article in this Chapter except Article 3.09, the norms and modalities regarding the elections shall be fixed by the Election Commission which can be challenged only in the Senate. The Chief Election Officer shall present these in the Senate meeting before every election.
-16. The outgoing Senate shall handover charge to the incoming Senate around 14th March. Under exceptional circumstances, this can be postponed for a period of two weeks.
+    6. If a tie occurs as per Article 3.11.02, the vote of the President shall be counted to break the tie. This vote may not be a no-preference vote.
+	  7. If no one is elected, then elections will be held afresh. These elections will not have the option for a no-preference vote and any candidate who had been eliminated previously shall not be allowed to contest for the same post again.
+13. The elections of the Parliamentarian and the Finance Convener shall also be conducted as per Article 3.12. In this case, the tie-breaking vote shall be that of the Chairperson and not the President.
+14. The elections of the Conveners of the Standing Councils shall be conducted as per Article 3.12. In this case, any General Body member may contest after being proposed by a Senator. 
+15. If the post any Senate Office-bearer falls vacant in the middle of the Senate’s term, by-elections shall be called by the Senate for that post. This election shall be conducted by the incumbent Chairperson or Parliamentarian or both (whichever is applicable) as per Article 3.12. 
+16. Notwithstanding any other Article in this Chapter except Article 3.09, the norms and modalities regarding the elections shall be fixed by the Election Commission which can be challenged only in the Senate. The Chief Election Officer shall present these in the Senate meeting before every election.
+17. The outgoing Senate shall handover charge to the incoming Senate around 14th March. Under exceptional circumstances, this can be postponed for a period of two weeks.
+
 
 # __CHAPTER IV__
 ## ORGANIZATION OF THE STUDENTS’ SENATE
@@ -184,7 +186,7 @@ Unless specifically assigned by the Constitution or the Senate, he/she shall not
     1. The COSHA shall supervise and coordinate matters of common interest to all Halls of Residence of the Institute.
     2. It shall have its own constitution which shall be maintained as an Appendix to this Constitution.
     3. The Chairperson, COSHA (as specified by the COSHA Constitution) shall preside over the meetings of the COSHA and shall be responsible for the implementation of the decisions of the COSHA.
-    4. The Convener, COSHA shall be elected from among the non-executive members of the General Body, and shall maintain the records of the COSHA. He/she shall take up executive work on the explicit direction of the Chairperson, COSHA. He/she shall represent the COSHA in the meetings of the Senate.
+    4. The Convener, COSHA shall maintain the records of the COSHA. He/she shall take up executive work on the explicit direction of the Chairperson, COSHA. He/she shall represent the COSHA in the meetings of the Senate.
 7. Finance Committee
     1. The Finance Committee shall manage the finances of the Gymkhana and shall control and supervise the expenditures incurred by the Executive wing of the Gymkhana. 
     2. It shall report to the Senate the Finances and Accounts of the Gymkhana periodically.
@@ -194,22 +196,22 @@ Unless specifically assigned by the Constitution or the Senate, he/she shall not
 8. Steering Committee
     1. The Steering Committee shall assist the Chairperson in steering the meetings of the Senate.
     2. The Chairperson, Students’ Senate shall be the ex-officio Convener of the Steering Committee.
-    3. It shall otherwise consist of two members, who shall be elected by the Senate.
-    4. Ordinarily, the members shall be one undergraduate Senator and one postgraduate Senator. However, if the Senate is unable to elect two such members, it may, by resolution, choose to elect any two members of the General Body to this position.
+    3. It shall otherwise consist of three members, who shall be elected by the Senate from the General Body.
+    4. Ordinarily, the members shall be one undergraduate and one postgraduate General Body Member.
 9. Rules and Procedures Committee
     1. The Rules and Procedures Committee shall be responsible for considering matters pertaining to the Constitution, or to the Rules and Procedures of the Senate or the Gymkhana.
     2. Amendments to the Constitution may not be made by the Senate without considering the opinion of the Rules and Procedures Committee.
     3. The Parliamentarian, Students’ Senate shall be the ex-officio Convener of the Rules and Procedures Committee.
-    4. It shall otherwise consist of three members, who shall be elected by the Senate.
-    5. Ordinarily, the members shall be at least one undergraduate Senator and one postgraduate Senator. However, if the Senate is unable to elect three such members, it may, by resolution, choose to elect any three members of the General Body to this position.
+    4. It shall otherwise consist of three members, who shall be elected by the Senate from the General Body.
+    5. Ordinarily, the members shall be at least one undergraduate and one postgraduate General Body Member.
 10. Nominations Committee
     1. The Nominations Committee shall recommend to the Senate the names of persons for any representation of the Senate or for Senate ratified positions, where it is asked to by the constitution or where there is no recommending authority.
     2. Specifically, the Nominations Committee shall recommend to the Senate the name(s) of Students’ Senate Representative(s) to the Standing Committees of the (Academic) Senate.
     3. The Nominations Committee can call for an explanation, in case its recommended nominee(s) is (are) not found suitable for the assigned task.  All its nominations/actions are to be ratified by the Senate.
     4. For each selection pertaining to any representation/position, the Nominations Committee may constitute a panel to interview the various candidates and select from them the names that shall be recommended to the Senate. The panel may not contain anybody who is contesting for the various posts, even if they are a member of the Nominations Committee.
     5. The President, Students’ Gymkhana shall be the ex-officio Convener of the Nominations Committee and the Chairperson, Students’ Senate shall be an ex-officio member of the Nominations Committee.
-    6. It shall otherwise consist of one member, elected by the Senate to this position.
-    7. Ordinarily, the committee should have at least one undergraduate and one postgraduate Member of the Senate. However, if the Senate is unable to elect one such member, it may, by resolution, choose to elect one Member of the General Body to this position, such that the above condition is satisfied in terms of Members of the General Body.
+    6. It shall otherwise consist of one member, elected by the Senate from the General Body.
+    7. Ordinarily, the committee should have at least one undergraduate and one postgraduate General Body Member.
 11. Committee of Festival Affairs (COFA)
     1. There shall be one Committee of Festival Affairs for each festival of the Gymkhana, viz. Antaragni, Techkriti and Udghosh, which shall respectively be referred to as COFA(A), COFA(T) and COFA(U), and shall oversee the day-to-day affairs of their corresponding festival. They shall be responsible to the Senate for the conduction of the festival.
     2. The COFA and the festivals shall be governed by the Festival Manual, which shall be an Appendix to the Constitution.
@@ -257,7 +259,7 @@ Unless specifically assigned by the Constitution or the Senate, he/she shall not
 13. The Senate may reject any name that it deems unfit for holding that position.
 14. At most five of the names recommended by the President/General Secretary for inclusion in their respective council may be Senators.
 15. There shall be Cells which operate independent of any council and carry out activities that serve a diversified cause.
-16. Cells shall be headed by one or more Overall Coordinators appointed by the Senate at the recommendation of the Nominations Committee. Overall Coordinator(s) shall recommend to the Senate for ratification the names of the students who shall be appointed to various positions of responsibility in their respective cell.
+16. Cells shall be headed by one or more Overall Coordinators appointed by the Senate at the recommendation of the Nominations Committee and shall consist of Wings. Overall Coordinator(s) shall recommend to the Senate for ratification the names of the students who shall be appointed to various positions of responsibility in their respective cell.
 17. Whenever asked, the Overall Coordinator(s) shall report to the Senate and be answerable for the activities carried out by their cell. The Overall Coordinator(s) shall further present an Annual report of the cell before the handing-over session of the Senate.
 18.A cell may have Faculty members as Advisors who may counsel and assist the cell in its working.
 19. Cells shall receive funding from the Annual Gymkhana Budget.
