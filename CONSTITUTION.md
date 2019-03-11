@@ -256,7 +256,7 @@ Unless specifically assigned by the Constitution or the Senate, he/she shall not
 13. The Senate may reject any name that it deems unfit for holding that position.
 14. At most five of the names recommended by the President/General Secretary for inclusion in their respective council may be Senators.
 15. There shall be Cells which operate independent of any council and carry out activities that serve a diversified cause.
-16. Cells shall be headed by one or more Overall Coordinators appointed by the Senate at the recommendation of the Nominations Committee. Overall Coordinator(s) shall recommend to the Senate for ratification the names of the students who shall be appointed to various positions of responsibility in their respective cell.
+16. Cells shall be headed by one or more Overall Coordinators appointed by the Senate at the recommendation of the Nominations Committee and shall consist of Wings. Overall Coordinator(s) shall recommend to the Senate for ratification the names of the students who shall be appointed to various positions of responsibility in their respective cell.
 17. Whenever asked, the Overall Coordinator(s) shall report to the Senate and be answerable for the activities carried out by their cell. The Overall Coordinator(s) shall further present an Annual report of the cell before the handing-over session of the Senate.
 18.A cell may have Faculty members as Advisors who may counsel and assist the cell in its working.
 19. Cells shall receive funding from the Annual Gymkhana Budget.
