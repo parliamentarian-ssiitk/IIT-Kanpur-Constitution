@@ -193,22 +193,22 @@ Unless specifically assigned by the Constitution or the Senate, he/she shall not
 8. Steering Committee
     1. The Steering Committee shall assist the Chairperson in steering the meetings of the Senate.
     2. The Chairperson, Students’ Senate shall be the ex-officio Convener of the Steering Committee.
-    3. It shall otherwise consist of two members, who shall be elected by the Senate.
-    4. Ordinarily, the members shall be one undergraduate Senator and one postgraduate Senator. However, if the Senate is unable to elect two such members, it may, by resolution, choose to elect any two members of the General Body to this position.
+    3. It shall otherwise consist of three members, who shall be elected by the Senate from the General Body.
+    4. Ordinarily, the members shall be one undergraduate and one postgraduate General Body Member.
 9. Rules and Procedures Committee
     1. The Rules and Procedures Committee shall be responsible for considering matters pertaining to the Constitution, or to the Rules and Procedures of the Senate or the Gymkhana.
     2. Amendments to the Constitution may not be made by the Senate without considering the opinion of the Rules and Procedures Committee.
     3. The Parliamentarian, Students’ Senate shall be the ex-officio Convener of the Rules and Procedures Committee.
-    4. It shall otherwise consist of three members, who shall be elected by the Senate.
-    5. Ordinarily, the members shall be at least one undergraduate Senator and one postgraduate Senator. However, if the Senate is unable to elect three such members, it may, by resolution, choose to elect any three members of the General Body to this position.
+    4. It shall otherwise consist of three members, who shall be elected by the Senate from the General Body.
+    5. Ordinarily, the members shall be at least one undergraduate and one postgraduate General Body Member.
 10. Nominations Committee
     1. The Nominations Committee shall recommend to the Senate the names of persons for any representation of the Senate or for Senate ratified positions, where it is asked to by the constitution or where there is no recommending authority.
     2. Specifically, the Nominations Committee shall recommend to the Senate the name(s) of Students’ Senate Representative(s) to the Standing Committees of the (Academic) Senate.
     3. The Nominations Committee can call for an explanation, in case its recommended nominee(s) is (are) not found suitable for the assigned task.  All its nominations/actions are to be ratified by the Senate.
     4. For each selection pertaining to any representation/position, the Nominations Committee may constitute a panel to interview the various candidates and select from them the names that shall be recommended to the Senate. The panel may not contain anybody who is contesting for the various posts, even if they are a member of the Nominations Committee.
     5. The President, Students’ Gymkhana shall be the ex-officio Convener of the Nominations Committee and the Chairperson, Students’ Senate shall be an ex-officio member of the Nominations Committee.
-    6. It shall otherwise consist of one member, elected by the Senate to this position.
-    7. Ordinarily, the committee should have at least one undergraduate and one postgraduate Member of the Senate. However, if the Senate is unable to elect one such member, it may, by resolution, choose to elect one Member of the General Body to this position, such that the above condition is satisfied in terms of Members of the General Body.
+    6. It shall otherwise consist of one member, elected by the Senate from the General Body.
+    7. Ordinarily, the committee should have at least one undergraduate and one postgraduate General Body Member.
 11. Committee of Festival Affairs (COFA)
     1. There shall be one Committee of Festival Affairs for each festival of the Gymkhana, viz. Antaragni, Techkriti and Udghosh, which shall respectively be referred to as COFA(A), COFA(T) and COFA(U), and shall oversee the day-to-day affairs of their corresponding festival. They shall be responsible to the Senate for the conduction of the festival.
     2. The COFA and the festivals shall be governed by the Festival Manual, which shall be an Appendix to the Constitution.
